@@ -1,0 +1,29 @@
+ИЛС - PFD
+ТО - MAP
+РЗП - RWR
+ОПС - weapons
+ИЛС - HUD repeater
+БД - ???
+ПУМ - ???
+
+PFD
+---
+H - radar height
+Vm - ias
+V - gs
+
+Map
+---
+ПЗ - limit value?
+Ψ - direction
+Д - distance
+Т - remaining time
+ОПЦ - ???
+НТ/Р - ???
+ППМ - ground radar?
+x10 - zoom?
+МАШ - route
+ПУТ? - manual point?
+ПЗК? - ???
+ВЗВ - return route
+ПОС - direction to airport
